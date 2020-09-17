@@ -1,0 +1,14 @@
+- layout: left
+  name: 2020
+  link: https://doi.org/10.1016/j.matchemphys.2020.122923
+  quote: >
+    Materials Chemistry and Physics
+  description: | # this will include new lines to allow paragraphs
+    Bulk and surface DFT investigations of the electronic and magnetic properties of CsXNO (X = Mg, Ca and Sr) quaternary Heusler alloys
+- layout: left
+  name: 2020
+  link: https://arxiv.org/abs/2003.00450
+  quote: >
+    arXiv:2003.00450
+  description: | # this will include new lines to allow paragraphs
+    Inflation: Are latest detected events of gravitational waves in favor of string theory?
