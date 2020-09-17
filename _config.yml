@@ -30,6 +30,12 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
+    
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
 - layout: left
   name: Kharazmi University of Tehran
   dates: 2016 - 2020
@@ -38,12 +44,6 @@ about_content: | # this will include new lines to allow paragraphs
     Fully Funded Scholarship
   description: | # this will include new lines to allow paragraphs
     GPA: 3.2/4
-    
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
