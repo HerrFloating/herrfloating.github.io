@@ -29,21 +29,14 @@ about_content: | # this will include new lines to allow paragraphs
   <mark>Computation Physics</mark> and <mark>Condensed matter Physics</mark>
 
 # Projects Section
-# projects_title: Projects
+# projects_title: Publications
     
 # Experience Section
 # experience_title: Experience
 
 # Education Section
 # educaton_title: Education
-- layout: left
-  name: Kharazmi University of Tehran
-  dates: 2016 - 2020
-  qualification: B.Sc. Solid-State Physics
-  quote: >
-    Fully Funded Scholarship
-  description: | # this will include new lines to allow paragraphs
-    GPA: 3.2/4
+
 
 # More Section
 # more_title: A Little More About Me
